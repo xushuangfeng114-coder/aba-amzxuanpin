@@ -9,8 +9,8 @@ import streamlit as st
 # ==================== 0. 权限与账号配置 ====================
 USER_CREDENTIALS = {
     "admin": "admin888",
-    "buyer01": "jp666",
-    "buyer02": "jp888",
+    "zhang": "jp666",
+    "huang": "jp666",
     "buyer03": "jp999"
 }
 
